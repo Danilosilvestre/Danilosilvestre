@@ -1,16 +1,14 @@
-## Hi there 👋
+  
+ 👋 Olá, meu nome é Danilo Da Cruz Silvestre!
 
-<!--
-**Danilosilvestre/Danilosilvestre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Atualmente  Sou estudante de Engenharia de Software com foco em desenvolvimento Full Stack.
 
-Here are some ideas to get you started:
+ Estou sempre aprendendo!
+ Estou constantemente em busca de novos desafios e conhecimentos. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Vamos nos conectar!
+Sinta-se à vontade para entrar em contato comigo pelas redes sociais ou conferir meus projetos no GitHub!
+
+📫 Como me encontrar: danilo.s_95@outlook.com
+
+Obrigado por visitar meu perfil!
