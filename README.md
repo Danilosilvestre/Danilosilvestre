@@ -7,7 +7,7 @@
  Estou constantemente em busca de novos desafios e conhecimentos. 
 
 Vamos nos conectar!
-Sinta-se à vontade para entrar em contato comigo pelas redes sociais ou conferir meus projetos no GitHub!
+Sinta-se à vontade para entrar em contato comigo pelo meu e-mail ou conferir meus projetos no GitHub!
 
 📫 Como me encontrar: danilo.s_95@outlook.com
 
